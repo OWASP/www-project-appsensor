@@ -75,8 +75,8 @@ auto-migrated: 1
 <img src="Appsensor-developer-small.jpg" title="Appsensor-developer-small.jpg" alt="Appsensor-developer-small.jpg" /><figcaption>Appsensor-developer-small.jpg</figcaption>
 </figure>
 </figure>
-<p><a href="https://www.owasp.org/index.php/File:Appsensor_intro_for_developers.pdf">Two-sided US Letter or A4</a></p>
-<p><a href="https://www.owasp.org/index.php/File:Appsensor_intro_for_developers.pdf">Two-sided US Letter or A4</a></p>
+<p><a href="/www-pdf-archive/File:Appsensor_intro_for_developers.pdf">Two-sided US Letter or A4</a></p>
+<p><a href="/www-pdf-archive/File:Appsensor_intro_for_developers.pdf">Two-sided US Letter or A4</a></p>
 <h2 id="appsensor_website">AppSensor Website</h2>
 <h2 id="appsensor_website">AppSensor Website</h2>
 <figure>
@@ -95,8 +95,8 @@ auto-migrated: 1
 <img src="Appsensor-cisobriefing-small.jpg" title="Appsensor-cisobriefing-small.jpg" alt="Appsensor-cisobriefing-small.jpg" /><figcaption>Appsensor-cisobriefing-small.jpg</figcaption>
 </figure>
 </figure>
-<p><a href="https://www.owasp.org/index.php/File:Appsensor-ciso-briefing.pdf">12-page US Letter booklet</a></p>
-<p><a href="https://www.owasp.org/index.php/File:Appsensor-ciso-briefing.pdf">12-page US Letter booklet</a></p>
+<p><a href="/www-pdf-archive/File:Appsensor-ciso-briefing.pdf">12-page US Letter booklet</a></p>
+<p><a href="/www-pdf-archive/File:Appsensor-ciso-briefing.pdf">12-page US Letter booklet</a></p>
 <h2 id="project_founder">Project Founder</h2>
 <h2 id="project_founder">Project Founder</h2>
 <ul>
@@ -117,14 +117,14 @@ auto-migrated: 1
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <ul>
-<li><a href=":Category:OWASP_ModSecurity_Core_Rule_Set_Project" title="wikilink">OWASP ModSecurity Core Rule Set</a></li>
-<li><a href=":Category:OWASP_ModSecurity_Core_Rule_Set_Project" title="wikilink">OWASP ModSecurity Core Rule Set</a></li>
+<li><a href=":Category:OWASP_ModSecurity_Core_Rule_Set_Project" title=>OWASP ModSecurity Core Rule Set</a></li>
+<li><a href=":Category:OWASP_ModSecurity_Core_Rule_Set_Project" title=>OWASP ModSecurity Core Rule Set</a></li>
 </ul></td>
 </ul></td>
 <ul>
 <li>OWASP AppSensor Guide v2 EN
 <ul>
-<li><a href="https://www.owasp.org/index.php/File:Owasp-appsensor-guide-v2.pdf">PDF</a></li>
+<li><a href="/www-pdf-archive/File:Owasp-appsensor-guide-v2.pdf">PDF</a></li>
 <li><a href="https://www.owasp.org/index.php/File:Owasp-appensor-guide-v2.doc">DOC</a></li>
 <li><a href="http://www.lulu.com/shop/owasp-foundation/appsensor-guide/paperback/product-21608107.html">Hard copy</a></li>
 </ul></li>
@@ -140,9 +140,9 @@ auto-migrated: 1
 <li>[09 Jun 2015] AppSensor Code v2.1.0 <a href="https://github.com/jtmelton/appsensor/releases/tag/v2.1.0">released</a></li>
 <li>[20 May 2015] Working session at <a href="http://2015.appsec.eu/project-summit/">OWASP Project Summit</a> - Code</li>
 <li>[19 May 2015] Working session at <a href="http://2015.appsec.eu/project-summit/">OWASP Project Summit</a> - Documentation</li>
-<li>[09 Apr 2015] <a href="https://www.owasp.org/index.php/File:Appsensor-ciso-briefing.pdf">CISO Briefing</a> booklet published</li>
+<li>[09 Apr 2015] <a href="/www-pdf-archive/File:Appsensor-ciso-briefing.pdf">CISO Briefing</a> booklet published</li>
 <li>[22 Feb 2015] Proposal for <a href="https://www.owasp.org/index.php/GSoC2015_Ideas#OWASP_AppSensor">Google Summer of Code 2015</a></li>
-<li>[13 Feb 2015] <a href="https://www.owasp.org/index.php/File:Appsensor_intro_for_developers.pdf">Introduction for Developers</a> flyer published</li>
+<li>[13 Feb 2015] <a href="/www-pdf-archive/File:Appsensor_intro_for_developers.pdf">Introduction for Developers</a> flyer published</li>
 <li>[13 Feb 2015] AppSensor project awarded OWASP flagship status</li>
 <li>[28 Jan 2015] AppSensor Code v2.0.0 final <a href="https://github.com/jtmelton/appsensor/releases/tag/v2.0.0">released</a></li>
 </ul>
@@ -328,7 +328,7 @@ if you want to work on ANYTHING, please let jtmelton\[@\]gmail.com know.
     ([github issue](https://github.com/jtmelton/appsensor/issues/12))
     -\> DONE
   - ~~Preparation for GSOC 2015 submission~~ -\> DONE - see
-    [GSoC2015_Ideas](GSoC2015_Ideas "wikilink") - Update - OWASP not
+    [GSoC2015_Ideas](GSoC2015_Ideas ) - Update - OWASP not
     selected
 
 ### September 2015 (2.2)
@@ -586,12 +586,12 @@ print](http://www.lulu.com/shop/owasp-foundation/appsensor-ciso-briefing/paperba
 
   - OWASP AppSensor Guide
       - v2.0 EN
-          - [PDF](https://www.owasp.org/index.php/File:Owasp-appsensor-guide-v2.pdf)
+          - [PDF](/www-pdf-archive/File:Owasp-appsensor-guide-v2.pdf)
           - [DOC](https://www.owasp.org/index.php/File:Owasp-appensor-guide-v2.doc)
           - [Print on demand at cost hard
             copy](http://www.lulu.com/shop/owasp-foundation/appsensor-guide/paperback/product-21608107.html)
       - v1.1 EN
-          - [PDF](https://www.owasp.org/images/2/2f/OWASP_AppSensor_Beta_1.1.pdf)
+          - [PDF](/www-pdf-archive/OWASP_AppSensor_Beta_1.1.pdf)
           - [DOC](https://www.owasp.org/images/b/b0/OWASP_AppSensor_Beta_1.1.doc)
 
 ## Presentations
@@ -662,12 +662,12 @@ Attacker](http://www.youtube.com/watch?v=8ItfuwvLxRk)
 
 __NOTOC__ <headertabs></headertabs>
 
-[AppSensor Project](Category:OWASP_Project "wikilink") [Category:OWASP
-Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:OWASP_Download](Category:OWASP_Download "wikilink")
-[Category:SAMM-EH-3](Category:SAMM-EH-3 "wikilink")
-[Category:SAMM-SA-2](Category:SAMM-SA-2 "wikilink")
-[Category:SAMM-VM-3](Category:SAMM-VM-3 "wikilink")
+[AppSensor Project](Category:OWASP_Project ) [Category:OWASP
+Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:OWASP_Download](Category:OWASP_Download )
+[Category:SAMM-EH-3](Category:SAMM-EH-3 )
+[Category:SAMM-SA-2](Category:SAMM-SA-2 )
+[Category:SAMM-VM-3](Category:SAMM-VM-3 )
