@@ -4820,13 +4820,13 @@ following XSS attacks would only be used by an attacker to probe for
 vulnerability. An actual XSS attack would be customized by the attacker.
 
 ```javascript
-    <script>
-        alert(document.cookie);
-    </script>
+<script>
+    //alert(document.cookie);
+</script>
 
-    <script>
-        alert();
-    </script>
+<script>
+    //alert();
+</script>
 
 alert(String.fromCharCode(88,83,83))
 <IMG SRC="javascript:alert('XSS');"> <IMG SRC=javascript:alert('XSS')>
