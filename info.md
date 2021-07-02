@@ -6,7 +6,7 @@
 
 * <i class="fas fa-book" style="color:#233e81;"></i> Documentation
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
-* 
+
 #### Audience
 
 * <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
