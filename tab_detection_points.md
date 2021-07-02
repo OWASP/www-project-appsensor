@@ -1,5 +1,5 @@
 ---
-title: Detection Points
+title: Detection_Points
 layout: null
 tab: true
 order: 3
