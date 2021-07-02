@@ -4818,18 +4818,15 @@ to an admin viewing log files and the 'displayname' POST variable may be
 stored in the application and displayed to other users. Note, the
 following XSS attacks would only be used by an attacker to probe for
 vulnerability. An actual XSS attack would be customized by the attacker.
-```
-<script>
 
-alert(document.cookie);
+```javascript
+    <script>
+        alert(document.cookie);
+    </script>
 
-</script>
-
-<script>
-
-alert();
-
-</script>
+    <script>
+        alert();
+    </script>
 
 alert(String.fromCharCode(88,83,83))
 <IMG SRC="javascript:alert('XSS');"> <IMG SRC=javascript:alert('XSS')>
