@@ -4818,7 +4818,7 @@ to an admin viewing log files and the 'displayname' POST variable may be
 stored in the application and displayed to other users. Note, the
 following XSS attacks would only be used by an attacker to probe for
 vulnerability. An actual XSS attack would be customized by the attacker.
-
+```
 <script>
 
 alert(document.cookie);
@@ -4836,7 +4836,7 @@ alert(String.fromCharCode(88,83,83))
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 
 <BODY ONLOAD=alert('XSS')>
-
+```
 Cross references:
 
   - [OWASP ModSecurity Core Rule Set
