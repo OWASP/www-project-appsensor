@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP AppSensor
 tags: appsensor
-level: 1
+level: 2
 type: documentation
 
 ---
