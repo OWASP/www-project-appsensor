@@ -1,0 +1,26 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: John Melton
+    email: john.melton@owasp.org
+    github: jtmelton
+level: 2
+license:
+  - MIT
+name: OWASP AppSensor
+pitch: Description for OWASP AppSensor
+repositories:
+  - name: www-project-appsensor
+    url: https://github.com/OWASP/www-project-appsensor
+    description: OWASP Foundation Web Repository
+  - name: appsensor
+    url: https://github.com/jtmelton/appsensor
+    description: A toolkit for building self-defending applications through real-time event detection and response
+tags:
+  - appsensor
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-appsensor
